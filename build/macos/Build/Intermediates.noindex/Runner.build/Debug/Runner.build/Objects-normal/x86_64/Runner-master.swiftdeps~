@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
+options: "d587bc40a4a75e5d4ae77b2063253da7ef624d0b6946f6e8c2da19257daccb25"
+build_start_time: [1673053937, 196740150]
+build_end_time: [1673053945, 862519025]
+inputs:
+  "/Users/dimasadi/FlutterDevs/Project/Belajar Mandiri/fb_fetchapi_postget_getx/macos/Flutter/GeneratedPluginRegistrant.swift": [1673053905, 559005498]
+  "/Users/dimasadi/FlutterDevs/Project/Belajar Mandiri/fb_fetchapi_postget_getx/macos/Runner/AppDelegate.swift": [1631406035, 197606801]
+  "/Users/dimasadi/FlutterDevs/Project/Belajar Mandiri/fb_fetchapi_postget_getx/macos/Runner/MainFlutterWindow.swift": [1631406035, 202245712]

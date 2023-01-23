@@ -1,0 +1,4 @@
+#Mon Jan 02 14:03:01 WIB 2023
+base.0=/Users/dimasadi/FlutterDevs/Project/Belajar Mandiri/fb_fetchapi_postget_getx/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
